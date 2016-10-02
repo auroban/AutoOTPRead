@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OtpView">
+        <attr name="otp_length" format="integer"/>
+        <attr name="otp_background_color" format="color"/>
+        <attr name="otp_submitbutton_color" format="color"/>
+        <attr name="otp_underline_normal" format="color"/>
+        <attr name="otp_underline_focused" format="color"/>
+        <attr name="otp_onerror_button_color" format="color"/>
+        <attr name="otp_onerror_button_text_color" format="color"/>
+        <attr name="otp_submitbutton_text" format="string"/>
+        <attr name="otp_submitbutton_text_color" format="color"/>
+        <attr name="otp_keycell_height" format="dimension"/>
+        <attr name="otp_countdown_duration" format="integer"/>
+        <attr name="otp_max_num_tries" format="integer"/>
+        <attr name="otp_countdown_delay" format="integer"/>
+        <attr name="otp_onerror_duration" format="integer"/>
+        <attr name="otp_timer_text_color" format="color"/>
+        <attr name="otp_timer_text_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_notreceived_text" format="string"/>
+        <attr name="otp_notreceived_text_size" format="dimension"/>
+        <attr name="otp_notreceived_text_color" format="color"/>
+        <attr name="otp_notreceived_text_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_wait_text" format="string"/>
+        <attr name="otp_wait_text_size" format="dimension"/>
+        <attr name="otp_wait_text_color" format="color"/>
+        <attr name="otp_wait_text_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_regenerate_text" format="string"/>
+        <attr name="otp_regenerate_text_size" format="dimension"/>
+        <attr name="otp_regenerate_text_color" format="color"/>
+        <attr name="otp_regenerate_text_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_title" format="string"/>
+        <attr name="otp_title_color" format="color"/>
+        <attr name="otp_title_size" format="dimension"/>
+        <attr name="otp_title_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_keypad_digit_color" format="color"/>
+        <attr name="otp_keypad_digit_size" format="dimension"/>
+        <attr name="otp_keypad_digit_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr name="otp_digit_color" format="color"/>
+        <attr name="otp_digit_size" format="dimension"/>
+        <attr name="otp_digit_style" format="enum">
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+    </declare-styleable>
+</resources>

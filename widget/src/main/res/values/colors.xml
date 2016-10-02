@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="otp_background">#4185F2</color>
+    <color name="otp_submit_button">#E87E0C</color>
+    <color name="otp_underline_normal">#33FFFFFF</color>
+    <color name="otp_underline_focused">#FFFFFFFF</color>
+</resources>

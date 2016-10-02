@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/normal_back">
+        <shape android:shape="rectangle">
+            <solid/>
+        </shape>
+    </item>
+    <item
+        android:id="@+id/normal_front"
+        android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <solid/>
+        </shape>
+    </item>
+</layer-list>

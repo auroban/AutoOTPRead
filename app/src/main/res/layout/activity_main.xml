@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:mContext="self.auro.com.myapplication.MainActivity">
+
+       <com.auro.widget.OTP.OtpView
+           android:id="@+id/customOTPView"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           app:otp_submitbutton_color="#3B2B13"
+           app:otp_submitbutton_text_color="#FFFFFF"
+           app:otp_submitbutton_text="Make Payment"
+           app:otp_title_color="#fffccc"
+           app:otp_length="6"/>
+</RelativeLayout>

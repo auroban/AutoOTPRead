@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="otp_verification_title">OTP Verification</string>
+    <string name="otp_submit_text">Submit</string>
+    <string name="otp_waiting">Waiting for OTP</string>
+    <string name="otp_successful">OTP Received Successfully</string>
+    <string name="otp_not_received">Didn\'t receive OTP yet\?</string>
+    <string name="otp_please_wait">Please wait</string>
+    <string name="otp_regenerate">Regenerate OTP</string>
+    <string name="otp_processing">Processing…</string>
+    <string name="otp_last_try_left">Last Try Left</string>
+    <string name="otp_no_more_tries">No More Tries Left</string>
+</resources>

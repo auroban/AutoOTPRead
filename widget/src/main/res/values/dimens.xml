@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="otp_title_size">8sp</dimen>
+    <dimen name="otp_status_text_size">16sp</dimen>
+    <dimen name="otp_input_length">40dp</dimen>
+    <dimen name="otp_text_size">10sp</dimen>
+    <dimen name="otp_key_digit_size">10sp</dimen>
+    <dimen name="otp_key_height">60dp</dimen>
+    <dimen name="otp_button_width">150dp</dimen>
+    <dimen name="otp_not_received_size">5sp</dimen>
+    <dimen name="otp_wait_text_size">5sp</dimen>
+</resources>
